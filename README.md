@@ -29,6 +29,4 @@ Skills: PHP / LARAVEL/ JS / HTML / CSS/Bootstrap
 
 ![GitHub metrics](https://metrics.lecoq.io/Sajib-dev1)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Sajib-dev1)  
-
 ![Profile views](https://gpvc.arturio.dev/Sajib-dev1)  
