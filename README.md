@@ -1,6 +1,7 @@
+![Web Developer](https://pbs.twimg.com/profile_banners/1609158026262646785/1683897152/600x200)
+
 ### Hi there 👋, my name is Sajib Mia
 #### Web Developer
-![Web Developer](https://pbs.twimg.com/profile_banners/1609158026262646785/1683897152/600x200)
 
 I am a skilled PHP web developer with expertise in the Laravel framework. With a passion for crafting efficient and dynamic web solutions, I excel in building robust and scalable applications that meet client needs. My proficiency includes creating interactive user interfaces, integrating databases, and optimizing performance. I am dedicated to staying current with industry trends, ensuring I deliver modern and secure web experiences. With a strong foundation in PHP and Laravel, I am adept at translating ideas into functional, elegant, and user-centric websites that drive positive user engagement and business growth.
 
