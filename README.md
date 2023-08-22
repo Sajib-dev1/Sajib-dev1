@@ -1,5 +1,5 @@
 
-<h1> 🏄‍♂️ Sajib Mia</h1>
+<h1 align="center"> 🏄‍♂️ Sajib Mia</h1>
 <h3 align="center">A passionate FullStack Developer from Bangladesh</h3>
 
 
