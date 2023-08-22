@@ -24,9 +24,5 @@ Skills: PHP / LARAVEL/ JS / HTML / CSS/Bootstrap
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sajib-dev1)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sajib-dev1&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sajib-dev1)  
-
-![GitHub metrics](https://metrics.lecoq.io/Sajib-dev1)  
-
-![Profile views](https://gpvc.arturio.dev/Sajib-dev1)  
+   
+ 
