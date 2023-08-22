@@ -4,10 +4,6 @@
 <h3 align="center">A passionate FullStack Developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-I am a skilled PHP web developer with expertise in the Laravel framework. With a passion for crafting efficient and dynamic web solutions, I excel in building robust and scalable applications that meet client needs. My proficiency includes creating interactive user interfaces, integrating databases, and optimizing performance. I am dedicated to staying current with industry trends, ensuring I deliver modern and secure web experiences. With a strong foundation in PHP and Laravel, I am adept at translating ideas into functional, elegant, and user-centric websites that drive positive user engagement and business growth.
-
-Skills: PHP / LARAVEL/ JS / HTML / CSS/Bootstrap
-
 - 🔭 I’m currently working on eComerch 
 - 🌱 I’m currently learning Laravel 
 - 👯 I’m looking to collaborate on github 
