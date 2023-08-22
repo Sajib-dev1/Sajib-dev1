@@ -1,7 +1,7 @@
 ![Web Developer](https://pbs.twimg.com/profile_banners/1609158026262646785/1683897152/600x200)
 
-<h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
-<h3 align="center">A passionate FullStack Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Sajib Mia</h1>
+<h3 align="center">A passionate FullStack Developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 I am a skilled PHP web developer with expertise in the Laravel framework. With a passion for crafting efficient and dynamic web solutions, I excel in building robust and scalable applications that meet client needs. My proficiency includes creating interactive user interfaces, integrating databases, and optimizing performance. I am dedicated to staying current with industry trends, ensuring I deliver modern and secure web experiences. With a strong foundation in PHP and Laravel, I am adept at translating ideas into functional, elegant, and user-centric websites that drive positive user engagement and business growth.
