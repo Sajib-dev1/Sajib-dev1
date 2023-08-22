@@ -13,7 +13,8 @@
 - 🌱 I’m currently learning Laravel 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about  Web Design/Web Development 
-- 📫 How to reach me: sajib03.dev@gmail.com 
+- 📫 How to reach me: sajib03.dev@gmail.com
+- ⚡ Fun fact **I am Funny**
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sajib-dev1)](https://github.com/ryo-ma/github-profile-trophy)
