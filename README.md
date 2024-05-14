@@ -43,6 +43,6 @@ I am a skilled PHP web developer with expertise in the Laravel framework. With a
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajib-dev1&show_icons=true&locale=en" alt="sajib-dev1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajib-dev1&" alt="sajib-dev1" /></p>
+
    
  
