@@ -17,7 +17,7 @@ I am a skilled PHP web developer with expertise in the Laravel framework. With a
 
 <p align="left"> <a href="https://twitter.com/sajib mia" target="blank"><img src="https://img.shields.io/twitter/follow/sajib mia?logo=twitter&style=for-the-badge" alt="sajib mia" /></a> </p>
 
-- 🔭 I’m currently working on eComerch 
+- 🔭 I’m currently working on library management system
 - 🌱 I’m currently learning Laravel 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about  Web Design/Web Development 
